@@ -1,0 +1,10 @@
+:root {
+  --text: #1b102a;
+  --muted: #5a4a73;
+  --purple: #7a2cff;
+}
+
+body {
+  background: white;
+  color: var(--text);
+}

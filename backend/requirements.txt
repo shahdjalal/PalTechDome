@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+cryptography
+pqcrypto
+python-multipart
