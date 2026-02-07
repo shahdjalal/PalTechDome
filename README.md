@@ -4,9 +4,9 @@ This system shows how real applications can combine traditional encryption with 
 
 Features:
 Upload any file
-Preview CSV / Excel locally
-Encrypt file → download .enc
-Decrypt .enc → restore original file
+Preview CSV / Excel locally,
+Encrypt file → download .enc,
+Decrypt .enc → restore original file,
 Hybrid key establishment:
 RSA-3072 (classical)
 ML-KEM-1024 / Kyber (post-quantum)
